@@ -39,7 +39,10 @@ A continuación se detalla una lista de los principales commits realizados por c
 
 * **Ramon:**
     * `Implementación de estructura HTML y estilos CSS, además de otros complementos.`
-    
+    * `Primer commit, estructura base.`
+    * `Create README.md.`
+    * `Merge pull request #1 from Ramonram17/diseño-css.`
+
 
 * **Gustavo:**
     * `Se modificó el index con la información.`
